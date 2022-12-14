@@ -1,4 +1,5 @@
 fighting
 world
 foot
+hand
 
