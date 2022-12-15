@@ -92,7 +92,7 @@
 
   ![naver](https://s.pstatic.net/dthumb.phinf/?src=%22https%3A%2F%2Fphinf.pstatic.net%2Ftvcast%2F20220607_24%2FNffLd_1654591171726gyofG_PNG%2F1654591045811.png%22&type=nf464_260)
 
-![box](images/%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C.jfif)
+![box](images/mobile.jpg)
 [![daum](images/daum.png)](https://www.daum.net/)
 
 ### 원시 HTML(Raw HTML>)
